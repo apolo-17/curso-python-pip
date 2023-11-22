@@ -1,5 +1,5 @@
 services:
-  app-csv:
+  app-algorithmic-complexity:
     build:
       context: .
       dockerfile: Dockerfile
